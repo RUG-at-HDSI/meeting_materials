@@ -1,0 +1,8 @@
+The inaugural meeting of the R User Group (RUG) will be on June 10th at 5 p.m..
+RUG seeks to connect users of the statistical programming language R in the
+greater Harvard community. We look forward to welcoming all those interested in
+R, from beginners to experts! We will be presenting a short presentation of
+some unique applications of R and discussing what members would like to see in
+the group. Please join us at
+https://harvard.zoom.us/j/91889455577?pwd=R2c2Q05iNjEwSVR1c2t3aHI5VTMxQT09 or
+email us at datascience_rug@harvard.edu for additional information.
