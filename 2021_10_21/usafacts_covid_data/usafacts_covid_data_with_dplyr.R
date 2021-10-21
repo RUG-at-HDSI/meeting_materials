@@ -56,6 +56,7 @@
 #' 3. https://en.m.wikipedia.org/wiki/Dplyr
 #' 4. https://dplyr.tidyverse.org/
 #' 5. https://r4ds.had.co.nz/transform.html
+#' 6. https://deanattali.com/2015/03/24/knitrs-best-hidden-gem-spin/
 
 
 # 0. Dependencies ---------------------------------------------------------
