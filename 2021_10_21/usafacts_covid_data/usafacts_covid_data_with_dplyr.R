@@ -62,6 +62,7 @@
 library(tidyverse)
 library(janitor)
 library(magrittr)
+library(plotly)
 
 # 1a. Load data ------------------------------------------------------------
 
@@ -303,3 +304,8 @@ plot_weekly_cases_per_100k_smoothed('MA')
 plot_weekly_cases_per_100k_smoothed('NY')
 plot_weekly_cases_per_100k_smoothed('TX')
 plot_weekly_cases_per_100k_smoothed('FL')
+
+# use plotly to create an interactive version
+plot_weekly_cases_per_100k_smoothed('FL') %>% 
+  ggplotly()
+  
