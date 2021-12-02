@@ -1,10 +1,15 @@
 
 # intro to ggplot2 
 
-https://github.com/rstudio/cheatsheets/blob/main/data-visualization.pdf
+Reference materials to help you learn ggplot2:
+
+The ggplot2 website: https://ggplot2.tidyverse.org/
+
+The ggplot2 cheatsheet: https://github.com/rstudio/cheatsheets/blob/main/data-visualization.pdf
 
 grammar_ggplot2 graphic taken from here: 
 https://girke.bioinformatics.ucr.edu/GEN242/tutorials/rgraphics/rgraphics/
 
-https://www.cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/
+Cedric Shrerer's tutorial for ggplot2: https://www.cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/
 
+The Graphics for Communication chapter from the R for Data Science book: https://r4ds.had.co.nz/graphics-for-communication.html
