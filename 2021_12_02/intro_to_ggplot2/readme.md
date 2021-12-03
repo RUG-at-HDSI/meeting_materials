@@ -1,9 +1,7 @@
 
 # intro to ggplot2 
 
-Code from the Intro to ggplot2 talk on December 2nd, 2021:
-
-[intro_to_ggplot2.R](intro_to_ggplot2.R)
+Code from the Intro to ggplot2 talk on December 2nd, 2021: [intro_to_ggplot2.R](intro_to_ggplot2.R)
 
 Reference materials to help you learn ggplot2:
 
