@@ -7,6 +7,8 @@ Along with slidedecks and code samples, the repository here also contains the
 posters from our events
 
 <p align="center">
+
+<img src="2022_02_17/2022_02_17_R_You_My_Valentine_RUG.png" alt="join us to share tips and tricks that make you 'love' R!" width="600">
   
 <img src="2022_03_10/2022_03_10_julia_silge.png" alt="julia silge will be speaking on creating features for ML with text" width="600">
 
