@@ -1,0 +1,103 @@
+17:07:18	 From Todd Brous | distillet : GWYNN!!!!! Hi there!!!
+17:07:27	 From gwynn s : Hello!!
+17:11:46	 From Christian Testa : I love stopifnot for that kind of thing!
+17:13:54	 From gwynn s : https://github.com/jennybc/debugging
+17:14:41	 From gwynn s : https://www.youtube.com/watch?v=vgYS-F8opgE
+17:16:24	 From gwynn s : https://bookdown.org/yihui/rmarkdown/parameterized-reports.html
+17:18:09	 From gwynn s : https://resources.symbolix.com.au/2020/10/28/downloadable-reports-shiny/
+17:19:04	 From Christian Testa : Earlier when I was talking about piping, I was talking about using the %T>% pipe in combination with head or print
+17:19:10	 From Christian Testa : https://magrittr.tidyverse.org/reference/tee.html
+17:19:52	 From Christian Testa : Rcpp
+17:19:59	 From Christian Testa : microbenchmark
+17:20:08	 From Todd Brous | distillet : (OMG…. There’s a TEEeeee in R!??!?!)
+17:20:28	 From Christian Testa : https://rstudio.github.io/profvis/
+17:20:34	 From gwynn s : 🍵
+17:20:53	 From Daphne Wang : That is awesome!!
+17:22:00	 From gwynn s : Apply!!! 🍀
+17:25:24	 From Christian Testa : dtplyr  provides a dplyr syntax with data.table as the backend!
+17:25:31	 From Christian Testa : https://dtplyr.tidyverse.org/
+17:26:41	 From gwynn s : Apply looks like it’s fast than map: https://stackoverflow.com/questions/45101045/why-use-purrrmap-instead-of-lapply
+17:29:33	 From Todd Brous | distillet : (I feel like my future has reticulate and Python in it…)
+17:29:54	 From Todd Brous | distillet : (Im surrounded by Python people… and they keep making fun of me.)
+17:31:04	 From gwynn s : 🤬
+17:31:15	 From gwynn s : That’s no good!
+17:31:34	 From Todd Brous | distillet : Ha!
+17:31:42	 From Christian Testa : Another way to speed up code is to parallelize:
+17:31:43	 From Christian Testa : https://dept.stat.lsa.umich.edu/~jerrick/courses/stat701/notes/parallel.html
+17:31:54	 From Katya Zelevinsky : https://cran.r-project.org/web/packages/JuliaCall/readme/README.html
+17:32:12	 From Katya Zelevinsky : This is the package I heard that helps run Julia with R
+17:32:18	 From Christian Testa : @Katya neat!!
+17:32:56	 From Todd Brous | distillet : PEMDAS sucks… I think the order of operations should be reversed.
+17:33:05	 From Todd Brous | distillet : (That was a joke)
+17:34:14	 From Todd Brous | distillet : But if it works… that’s a good thing.
+17:37:42	 From Christian Testa : Let’s say you have some data frame:
+17:37:51	 From Christian Testa : df <- data.frame(x = 1)
+17:38:06	 From Christian Testa : You can add descriptions to a column like this:
+17:38:06	 From Christian Testa : attr(df$x, 'label') <- 'column description text here'>
+17:38:22	 From Todd Brous | distillet : My only tip… is to clear the environment at the beginning of my code.    rm(list = ls())  Figuring that out represented 3 days of trauma…
+17:38:39	 From Christian Testa : There’s also this post about labelled data here:
+17:38:40	 From Christian Testa : https://www.pipinghotdata.com/posts/2020-12-23-leveraging-labelled-data-in-r/
+17:38:49	 From gwynn s : 👍
+17:40:39	 From Todd Brous | distillet : Dplyr changed my life.  It’s THE #1 reason I like R over python.    It just makes sense
+17:42:05	 From Todd Brous | distillet : I comment each line
+17:42:32	 From Todd Brous | distillet : Granted... at my stage in life… nobody is every gonna read or use my code
+17:42:54	 From Nicole Anne Swartwood : future todd might
+17:43:17	 From Christian Testa : “Literate programming”
+17:43:18	 From Todd Brous | distillet : I have a bunch of, “# read the code ya bonehead…” comments in my code
+17:44:33	 From Todd Brous | distillet : Using good variable names is super smart!
+17:45:42	 From gwynn s : I need to leave at 6.
+17:46:06	 From Darce : I also need to leave at 6:00 for another meeting. Sorry!
+17:46:09	 From Christian Testa : I’ll demo later something re: colorblindness
+17:46:37	 From Todd Brous | distillet : Callout??
+17:46:42	 From Christian Testa : cowplot
+17:46:44	 From Todd Brous | distillet : Calplot?
+17:46:50	 From gwynn s : Cowplot
+17:46:58	 From Zheng Zhang : https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html
+17:48:31	 From gwynn s : https://cran.r-project.org/web/packages/scattermore/scattermore.pdf
+17:48:42	 From Todd Brous | distillet : It works with “bazillions of points”
+17:49:40	 From Christian Testa : https://mran.microsoft.com/snapshot/2016-12-03/web/packages/ggthemes/vignettes/ggthemes.html
+17:49:43	 From Christian Testa : Lots of themes available here
+17:50:04	 From Todd Brous | distillet : One day… I want to create my own theme…
+17:50:34	 From Todd Brous | distillet : I want a “hand drawn sketch” style…
+17:50:55	 From Zheng Zhang : You could do it anytime Todd : )
+17:51:26	 From Christian Testa : @Todd I think this covers the hand drawn style:
+17:51:26	 From Christian Testa : https://stackoverflow.com/questions/12675147/how-can-we-make-xkcd-style-graphs
+17:51:40	 From Todd Brous | distillet : I love it!!!
+17:52:37	 From gwynn s : I have to run! See you next month!
+17:53:04	 From Todd Brous | distillet : Where was this last semester?!?!
+17:53:15	 From Christian Testa : https://broom.tidymodels.org/
+17:53:46	 From Darce : Thanks so much! Have to run…
+17:54:22	 From Christian Testa : https://www.njtierney.com/post/2020/09/17/missing-flavour/
+17:54:31	 From Christian Testa : Been excited about multiple types of NA that I just learned about!
+17:54:50	 From Christian Testa : NA_character_, NA_integer_, etc
+17:55:46	 From Christian Testa : Love testthat so much
+17:55:51	 From Zheng Zhang : https://cran.r-project.org/web/packages/missRanger/index.html
+17:56:01	 From Christian Testa : I really like the mice package for multiple imputation
+17:56:06	 From Zheng Zhang : missRanger is a machine-learning based imputation method.
+17:56:16	 From Todd Brous | distillet : Mice!!
+17:56:24	 From Christian Testa : Reference for MICE: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3074241/
+17:56:26	 From Zheng Zhang : mice is commonly used in my field.
+17:56:42	 From Christian Testa : Curious how mice and missRanger compare, I’ll have to look into it!
+17:56:48	 From Todd Brous | distillet : I gotta drop shortly…
+17:56:51	 From Zheng Zhang : https://github.com/IQSS/amelia
+17:57:00	 From Zheng Zhang : This is Amelia II that I mentioned.
+17:57:43	 From Todd Brous | distillet : https://github.com/dreamRs/esquisse
+17:58:45	 From Christian Testa : I love it
+17:59:52	 From Robert Sucsy, RI : While shouting out noob ggplot packages gotta include ggthemes
+18:00:12	 From Christian Testa : https://github.com/RUG-at-HDSI/meeting_materials/tree/main/2022_02_17/tips_and_tricks.R
+18:00:18	 From Christian Testa : https://rpubs.com/ctesta000/tips_and_tricks
+18:04:22	 From Todd Brous | distillet : Does that work in shiny?
+18:04:35	 From Todd Brous | distillet : Ohhh... even better
+18:04:45	 From Zheng Zhang : DT looks very convenient.
+18:07:11	 From Zheng Zhang : I do like checking vignettes. But this is the first time I heard browseVignettes.
+18:09:02	 From Christian Testa : https://datacornering.com/my-favorite-rstudio-tips-and-tricks/
+18:09:07	 From Christian Testa : https://www.rstudio.com/blog/r-markdown-tips-tricks-1-rstudio-ide/
+18:09:22	 From Nicole Anne Swartwood : cntl+shift+w is one of my favs
+18:09:38	 From Nicole Anne Swartwood : closes all your tabs when you’re done looking at your code at the moment lol
+18:11:58	 From Todd Brous | distillet : Sorry... I gotta drop off…  Thank you Christian and Nicole!!  You are both brilliant!  I cannot wait for the next session!?!?!?
+18:12:08	 From Nicole Anne Swartwood : bye todd!!
+18:13:27	 From Nicole Anne Swartwood : Oh mqcluster is a package that allows for really nice interfacing with clusters. Unfortunately not currently available for harvard cluster but we’ve been working with IT to get the necessary modules installed
+18:13:44	 From Katya Zelevinsky : These were all awesome!!! Thank you so much!
+18:13:45	 From Zheng Zhang : This is amazing Christian.
+18:15:03	 From Christian Testa : https://www.tidytextmining.com/
+18:16:08	 From Zheng Zhang : Thanks for sharing!
