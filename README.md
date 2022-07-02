@@ -16,8 +16,6 @@ posters from our events
 
 <img src="2022_02_17/2022_02_17_R_You_My_Valentine.png" alt="join us to share tips and tricks that make you 'love' R!" width="600">
   
-<img src="2022_03_10/2022_03_10_julia_silge.png" alt="julia silge will be speaking on creating features for ML with text" width="600">
-
 <img src="2022_01_20/RUG Organizer Interest Flyer.png" alt="organizer interest meeting" width="600">
 
 <img src="2021_11_18/2021_11_18_Kuhn_Recipes.png" alt="Max Kuhn on using recipes with tidymodels" width="600">
@@ -31,6 +29,5 @@ posters from our events
 <img src="2021_07_14/Beginners workshop.png" alt="beginners workshop" width="600"/>
   
 <img src="2021_06_10/flyer.png" alt="flyer for our first inaugural meeting" width="600"/>
-
 
 </p>
