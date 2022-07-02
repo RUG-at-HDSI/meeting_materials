@@ -8,6 +8,12 @@ posters from our events
 
 <p align="center">
 
+<img src="2022_06_30/2022_06_30_anniversRy.jpg" alt="Celebrating our 1 Year AnniversRy" width="600">
+
+<img src="2022_05_19/2022_05_19_InteractiveTutorialsWithLearnr.jpg" alt="Creating Interactive Tutorials with {learnr} by Yanina Bellini Saibene" width="600">
+
+<img src="2022_03_10/2022_03_10_julia_silge.png" alt="Creating features for machine learning from text" width="600">
+
 <img src="2022_02_17/2022_02_17_R_You_My_Valentine.png" alt="join us to share tips and tricks that make you 'love' R!" width="600">
   
 <img src="2022_03_10/2022_03_10_julia_silge.png" alt="julia silge will be speaking on creating features for ML with text" width="600">
@@ -25,5 +31,6 @@ posters from our events
 <img src="2021_07_14/Beginners workshop.png" alt="beginners workshop" width="600"/>
   
 <img src="2021_06_10/flyer.png" alt="flyer for our first inaugural meeting" width="600"/>
+
 
 </p>
