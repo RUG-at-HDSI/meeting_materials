@@ -8,6 +8,8 @@ posters from our events
 
 <p align="center">
 
+<img src="2022_08_18/git_and_github/git and github flyer.png" alt="Intro to Git and GitHub with R and RStudio" width="600">
+
 <img src="2022_06_30/2022_06_30_anniversRy.jpg" alt="Celebrating our 1 Year AnniversRy" width="600">
 
 <img src="2022_05_19/2022_05_19_InteractiveTutorialsWithLearnr.jpg" alt="Creating Interactive Tutorials with {learnr} by Yanina Bellini Saibene" width="600">
