@@ -8,7 +8,13 @@ posters from our events
 
 <p align="center">
 
-<img src="2022_09_29/LevelUpYourPlots/LevelUpYourPlots.png" alt="Level Up Your Plots poster -- registration details at https://rug-at-hdsi.org/calendar" width="600">
+<img src="2022_12_15/shiny_bioinformatics/Chanin_BioInfo_Shiny_Talk.png.png" alt="Towards the Development of Bioinformatics Tools poster" width="600">
+
+<img src="2022_12_08/gtsummary/Emily_gtsummary_Talk.png" alt="Creating Publication Ready Summary Tables with {gtsummary} poster" width="600">
+
+<img src="2022_10_27/RStan/RStan Flyer.png" alt="Using RStan for Bayesian Statistics poster" width="600">
+
+<img src="2022_09_29/LevelUpYourPlots/LevelUpYourPlots.png" alt="Level Up Your Plots poster" width="600">
 
 <img src="2022_08_18/git_and_github/git and github flyer.png" alt="Intro to Git and GitHub with R and RStudio" width="600">
 
