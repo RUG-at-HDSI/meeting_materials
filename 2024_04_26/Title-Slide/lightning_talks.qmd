@@ -1,0 +1,6 @@
+---
+title: "Lightning Talks!"
+format: revealjs
+---
+
+## {background-image="images/poster.png" data-background-size="contain"}
